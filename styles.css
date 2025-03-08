@@ -46,7 +46,10 @@ section {
     width: 45rem;
     height: auto;
 }
-
+.nav-img{
+    height: 150px;
+    width: 150px;
+}
 
 .esquerda-conteudo {
     display: flex;
