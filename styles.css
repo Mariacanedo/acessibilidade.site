@@ -47,11 +47,6 @@ section {
     height: auto;
 }
 
-.img-raça {
-    height: 100px;
-    width: 100px;
-}
-
 .esquerda-conteudo {
     display: flex;
     flex-direction: column;
