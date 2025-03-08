@@ -46,7 +46,8 @@ section {
     width: 45rem;
     height: auto;
 }
-.nav-img {
+
+.container d-flex justify-content-between align-items-center{
     height: 150px;
     width: 150px;
 }
